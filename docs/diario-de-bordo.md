@@ -6,3 +6,7 @@ A solucação aplicada foi linguagem html.
 
 Nos próximos dias serão feitos testes no programa.
 
+
+
+Adicionado uma nova atualização no programa
+
